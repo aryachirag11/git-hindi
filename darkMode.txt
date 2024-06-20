@@ -1,1 +1,2 @@
 Dark mode enabled
+add system setting theme option
