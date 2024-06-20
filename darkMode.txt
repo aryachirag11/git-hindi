@@ -1,1 +1,3 @@
 Dark mode enabled
+add system theme option
+add dark mode to courses page
