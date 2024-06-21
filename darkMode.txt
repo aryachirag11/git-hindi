@@ -1,3 +1,5 @@
 Dark mode enabled
 add system theme option
 add dark mode to courses page
+
+adding the dark mode on signup page(in progress)
